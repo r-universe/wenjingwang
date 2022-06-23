@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "quokar"]
+	path = quokar
+	url = https://github.com/wenjingwang/quokar
+	shallow = true
+	registered = true
